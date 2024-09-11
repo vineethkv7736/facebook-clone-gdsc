@@ -45,6 +45,9 @@ form {
     border-radius: 7px;
     padding: 15px;
 }
+.madeby{
+    font-weight: 800;
+}
 /* Input fields in the form */
 input {
     height: 50px;
